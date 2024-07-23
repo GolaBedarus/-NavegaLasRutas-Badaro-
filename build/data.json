@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "brand": "Nike",
+      "name": "Air Max 90",
+      "price": 120.00,
+      "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS7gDIKx-GM204ulq83GSRKPVfZe0Tcowsb_wuXLY2fTpXHgufLrYI_59bSOVMuO71y3G_nfR_MkzBOMxdrl37_RUkhSo5DXsUCi43zq8H6g-gJGLPuFVFOZA&usqp=CAE",
+      "quanty": 1
+    },
+    {
+      "id": 2,
+      "brand": "Adidas",
+      "name": "Ultraboost 21",
+      "price": 180.00,
+      "img": "https://s3.sa-east-1.amazonaws.com/www.vaypol.com.ar/variants/9qmx3iolzgjv3kbbmeixrmooan51/c77c2a06864ac9aca38dc5bd9371de015471edcdbf322dfb14411689bf968ae5",
+      "quanty": 1
+    },
+    {
+      "id": 3,
+      "brand": "Puma",
+      "name": "RS-X3",
+      "price": 110.00,
+      "img": "https://woker.vtexassets.com/arquivos/ids/453630-800-800?v=638502736636370000&width=800&height=800&aspect=true",
+      "quanty": 1
+    },
+    {
+      "id": 4,
+      "brand": "Reebok",
+      "name": "Club C 85",
+      "price": 85.00,
+      "img": "https://http2.mlstatic.com/D_821998-MLA74617100244_022024-O.jpg",
+      "quanty": 1
+    },
+    {
+      "id": 5,
+      "brand": "New Balance",
+      "name": "574 Core",
+      "price": 80.00,
+      "img": "https://http2.mlstatic.com/D_824648-MLA73912331660_012024-O.jpg",
+      "quanty": 1
+    }
+  ]
+  
